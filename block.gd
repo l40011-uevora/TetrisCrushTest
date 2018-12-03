@@ -5,7 +5,7 @@ var coordinates = Vector2()
 var blockInfo = []
 var cor = 1   #associar um número a cada cor e fazer uma cena para cada bloco
 var CurrentBoard = load("res://CurrentBoard.tscn").instance()
-
+#fufufufufufu
 func _ready():
     add_child(CurrentBoard)
     set_physics_process(true)
